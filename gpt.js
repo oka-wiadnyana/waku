@@ -1,7 +1,7 @@
 const { Configuration, OpenAIApi } = require("openai");
 const axios = require("axios");
 
-const apiKey = "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";
+const apiKey = "xxxx";
 async function chatWithGPT3(prompt) {
   try {
     const response = await axios.post(
