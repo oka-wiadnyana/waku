@@ -1,4 +1,4 @@
-# whatsappbot-nodejs-simple
+# waku (whatsappbot-nodejs-simple new repo)
 Whatsapp bot ini dibuat dengan format pesan respon khusus untuk satker Pengadilan, namun tetap bisa dikustomisasi oleh pengguna lain sesuai kebutusan. Whatsapp bot ini dibuat dengan platform [whatsapp-web-js](https://github.com/pedroslopez/whatsapp-web.js/), dan dibuat menggunakan bahasa javascript dengan runtime environment node-js.
 
 Prerequisit :
